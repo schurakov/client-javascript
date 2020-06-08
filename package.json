@@ -1,19 +1,7 @@
 {
-  "name": "@reportportal/client-javascript",
-  "version": "4.0.0",
-  "description": "ReportPortal client for node.js",
-  "author": "ReportPortal.io",
-  "contributors": [
-    {
-      "name": "Artsiom Tkachou",
-      "email": "artsiom_tkachou@epam.com"
-    },
-    {
-      "name": "Alexey Krylov",
-      "email": "lexecon117@gmail.com"
-    }
-  ],
-  "homepage": "https://github.com/reportportal/client-javascript",
+  "name": "@schurakov/client-javascript",
+  "version": "5.5.0",
+  "description": "ReportPortal client for node.js fork",
   "repository": {
     "type": "git",
     "url": "https://github.com/reportportal/client-javascript.git"
